@@ -25,15 +25,15 @@ export default function Footer() {
     {
       icon: <Phone className="h-4 w-4  text-gray-400" />,
       label: "Sales Enquiry",
-      value: "+91 89089089089",
-      link: "tel:+918908908989",
+      value: "+91 9945264555",
+      link: "tel:+919945264555",
     },
-    {
-      icon: <Phone className="h-4 w-4  text-gray-400" />,
-      label: "Support",
-      value: "+91 89089089088",
-      link: "tel:+918908908988",
-    },
+    // {
+    //   icon: <Phone className="h-4 w-4  text-gray-400" />,
+    //   label: "Support",
+    //   value: "+91 9945264555",
+    //   link: "tel:+919945264555",
+    // },
     {
       icon: <Mail className="h-4 w-4  text-gray-400" />,
       label: "Email Us",
@@ -70,7 +70,7 @@ export default function Footer() {
     { icon: <Youtube className="h-5 w-5" />, href: "#", label: "YouTube" },
     {
       icon: <WhatsApp className="h-5 w-5" />,
-      href: "https://wa.me/918908908989",
+      href: "https://wa.me/919945264555",
       label: "WhatsApp",
     },
   ];
@@ -197,7 +197,7 @@ export default function Footer() {
           className="grid grid-cols-3 bg-gray-900/95 backdrop-blur-sm border-t border-gray-800"
         >
           <a
-            href="tel:+918908908989"
+            href="tel:+919945264555"
             className="flex flex-col items-center justify-center p-3 hover:bg-gray-800 active:bg-gray-700 transition-colors"
           >
             <Phone className="h-5 w-5 text-white mb-1" />
@@ -211,7 +211,7 @@ export default function Footer() {
             <span className="text-xs text-white">Enquire</span>
           </button>
           <a
-            href="https://wa.me/918908908989"
+            href="https://wa.me/919945264555"
             target="_blank"
             rel="noopener noreferrer"
             className="flex flex-col items-center justify-center p-3 hover:bg-gray-800 active:bg-gray-700 transition-colors"

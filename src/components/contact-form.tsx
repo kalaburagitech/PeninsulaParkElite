@@ -50,7 +50,7 @@ export default function ContactForm({ isPopup = false }: ContactFormProps) {
     {
       icon: <Phone className="w-4 h-4" />,
       title: "Phone",
-      value: "+91 89089089089",
+      value: "+91 9945264555",
       link: "tel:+918908908989",
     },
     {
